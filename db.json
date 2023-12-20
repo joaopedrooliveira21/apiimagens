@@ -1,5 +1,5 @@
-{
-  "artes": [
+
+[  
     {
       "id" : 1,
       "titulo": "O Homem e o Passaro",
@@ -25,6 +25,4 @@
       "titulo": "Minha Turminha",
       "imagem": "https://cdn.discordapp.com/attachments/476194829374849036/1186469614692085842/Sem-Titulo-5.png?ex=65935cef&is=6580e7ef&hm=38f73687e385431e175a655cc00467b3b31a84af1f48443feb0fa08fee5988ac&"
     }
-  ]
-  
-}
+]  
